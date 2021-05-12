@@ -54,7 +54,7 @@
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.27",
     "mysql": "^2.17.1",
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "reflect-metadata": "^0.1.13",
     "swagger-express-ts": "^1.0.1",
     "swagger-ui-express": "^4.1.2",
